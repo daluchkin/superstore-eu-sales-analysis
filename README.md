@@ -1,6 +1,6 @@
 # Sales data analysis - Superstore EU
 
-![alt text](https://github.com/daluchkin/sales-superstore-eu/blob/main/Dashboard.png?raw=true)
+![alt text](https://github.com/daluchkin/superstore-eu-sales-analysis/blob/main/Dashboard.png?raw=true)
 
 ## Requirements
 
