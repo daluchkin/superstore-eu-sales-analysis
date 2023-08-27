@@ -19,6 +19,25 @@ Was implemented the following steps:
 1. Analyze data.
 1. Visualize and communicate data.
 
+## Objectives
+
+Questions we need to answer during our analysis to build final dashboard:
+
+* What day of the week are our sales high on average?
+* What is monthly average sales?
+* What are the year over growth year/ total sales over the years?
+* Who are the top customer of all times?
+* Which category/subcategory are best selling and most profitable?
+* Which sub-category make losses?
+* Which is the preferred ship mode?
+* Which city/region/state is the best selling and most profitable?
+* Which city has the highest number of sales?
+* Which segment is most profitable?
+* What is the gross and net sales revenue?
+* What is the total profit?
+* What is return rate?
+* What is the total number of customer?
+* What is average basket size ands value?
 
 ## Dataset
 
